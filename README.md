@@ -1,5 +1,19 @@
-# Godot-3D-Template
+# Exercise-06-3D-RPG
 
-Godot Template for 3D Games
+Exercise for MSCH-C220
 
-Includes Keyboard mappings and Global.gd
+Our 6th project
+
+## Implementation
+
+
+## References
+
+
+## Future Development
+
+
+
+## Created by 
+
+Lars Conard
